@@ -6,3 +6,7 @@
 ### 基本增删改查
 ### 使用echart数据图形化
 ### 登录账号和密码都是admin
+# 注意
+### 需要npm i 安装包依赖
+### npm run serve运行项目即可
+### 服务器提供的api，通过nodemon serve运行，不要关闭
